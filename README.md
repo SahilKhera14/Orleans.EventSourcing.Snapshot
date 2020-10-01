@@ -1,4 +1,4 @@
-# Orleans.EventSourcing.Snapshot
+# Orleans/EventSourcing/Snapshot
 Snapshot storage provider for orleans event sourcing
 
 This provider stores grain state snapshots and the event sequence, using a standard storage provider that can be configured independently.
